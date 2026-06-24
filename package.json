@@ -1,0 +1,21 @@
+{
+  "name": "mirror",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-powered cybersecurity playground for children",
+  "homepage": "https://github.com/DvidPiDev/mirror#readme",
+  "bugs": {
+    "url": "https://github.com/DvidPiDev/mirror/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DvidPiDev/mirror.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Team Mirror (V.H., A.K., D.K., D.S.)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
