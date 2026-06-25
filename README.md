@@ -1,4 +1,4 @@
-# 🪞 Mirror
+# 🪞 Mirror - Look at yourself online
 #### *An AI-powered cybersecurity playground for children*
 
 ---
